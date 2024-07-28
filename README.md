@@ -1,6 +1,3 @@
-# UIE-UnFold
-[DSAA 2024] UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement
-
 ### 📋 [UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement](https://arxiv.org/abs/2404.07072)
 
 <div>
@@ -24,14 +21,13 @@
 </span>
   (👨‍💻‍ Equal contributions, 📮 Corresponding Author)
   </div>
-
 <b>University of Macau, Huizhou University, SIAT CAS</b>
 
 In ***Computational Imaging, Vision, and Language (CIVIL) @ IEEE International Conference on Data Science and Advanced Analytics 2024 (CIVIL @ DSAA 2024)***
 
 ## ⚙️ Usage
 ### Training
-Please first specify TRAIN_DIR, VAL_DIR and SAVE_DIR in section TRAINING in traning.yml
+Please first specify TRAIN_DIR, VAL_DIR and SAVE_DIR in section TRAINING in config.yml
 
 For single GPU training:
 ```
