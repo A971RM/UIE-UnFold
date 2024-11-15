@@ -1,4 +1,4 @@
-### 📋 [UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement](https://arxiv.org/abs/2404.07072)
+### 📋 [UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10722842)
 
 <div>
 <span class="author-block">
